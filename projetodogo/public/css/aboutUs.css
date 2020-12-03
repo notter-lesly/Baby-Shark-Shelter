@@ -1,0 +1,87 @@
+body {
+  background-color: white;
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 2vw;
+  text-align: center;
+  padding: 2vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  background-color: rgb(250, 241, 241);
+  height: 15vh;
+  width: 100%;
+}
+
+header p {
+  color: grey;
+  font-size: 1.5vw;
+  text-align: center;
+}
+
+img {
+  width: 30vh;
+  height: 30vh;
+  max-width: 100%;
+}
+
+.Lisie {
+  padding: 3vw;
+  margin-left: 14vw;
+}
+
+.Lisie img {
+  float: left;
+}
+.Lisie p {
+  text-align: left;
+  margin-right: 15vw;
+  font-size: 1.5vw;
+
+  line-height: 6vh;
+}
+
+.Mark {
+  padding: 3vw;
+  margin-right: 14vw;
+}
+
+.Mark img {
+  float: right;
+}
+.Mark p {
+  text-align: left;
+  margin-left: 15vw;
+  font-size: 1.5vw;
+
+  line-height: 6vh;
+}
+
+h2 {
+  font-size: 2vw;
+  text-align: center;
+  padding: 1vw;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.info {
+  background-color: rgb(250, 241, 241);
+  margin-top: 1vw;
+}
+.info p {
+  text-align: center;
+  margin: 0, 18vw, 0, 18vw;
+  font-size: 1.5vw;
+
+  line-height: 6vh;
+}
+
+.shelter {
+  display: flex;
+  margin: auto;
+  padding: 2vw;
+}

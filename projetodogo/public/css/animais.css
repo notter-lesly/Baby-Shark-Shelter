@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(250, 241, 241);
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+h1 {
+  margin-top:3vh;
+  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
+  margin-bottom: 3vh;
+}
+
+ul {
+  display: flex;
+ 
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  list-style: none;
+
+  justify-content: space-around;
+  align-items: center;
+}
+
+li {
+  align-self: center;
+  padding-bottom: 20px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  border: 1px solid purple;
+}
+p {
+  color: rgb(58, 52, 52);
+  text-align: center;
+}
+
+h2 {
+  font-size: 12;
+  color: rgb(17, 16, 16);
+  text-align: center;
+}
+h3 {
+  color: rgb(112, 110, 110);
+  text-align: center;
+}
+
+
