@@ -1,6 +1,5 @@
  function mensagem(event){
-     console.log('kedi')
-     event.preventDefault()
+    event.preventDefault()
     alert('thank you! Soon we will contact you')
 }
 
